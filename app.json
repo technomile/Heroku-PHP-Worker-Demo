@@ -1,0 +1,7 @@
+{
+    "name": "PHP Background Worker Demo",
+    "description": "An application showing how to handle background jobs using worker dynos in PHP on Heroku.",
+    "keywords": ["Heroku Scheduler", "worker", "php", "example", "background", "processing"],
+    "repository": "https://github.com/technomile/php-worker-demo",
+    "addons": ["heroku-postgresql:hobby-dev", "scheduler:standard", "newrelic:wayne"]
+}
